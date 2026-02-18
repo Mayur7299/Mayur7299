@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Building full-stack applications using Spring Boot + React<br><br>Strengthening Data Structures & Algorithms for product-based companies<br><br>Developing scalable backend systems and real-world projects<br><br>👯 I’m looking to collaborate on<br><br>Open-source backend or full-stack projects<br><br><br>🤝 I’m looking for help with<br><br>Advanced system design concepts<br><br>tals (PyTorch, mathematical foundations)<br><br>💬 Ask me about<br><br>DSA strategies and problem patterns<br><br>Backend development with Java & Spring Boot<br><br>How to stay consistent in tech preparation
+🔭 I’m currently working on<br><br>Building full-stack applications using Spring Boot + React<br><br>Strengthening Data Structures & Algorithms for product-based companies<br><br>Developing scalable backend systems and real-world projects<br><br>👯 I’m looking to collaborate on<br><br>Open-source backend or full-stack projects<br><br><br>🤝  Ask me about<br><br>DSA strategies and problem patterns<br><br>Backend development with Java & Spring Boot<br><br>How to stay consistent in tech preparation
 
 
 # 💻 Tech Stack:
