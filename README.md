@@ -7,6 +7,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mayur7299&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mayur7299&theme=tokyonight&hide_border=true" height="150"/>
@@ -15,11 +17,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur7299&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </p>
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mayur7299&icon=5&color=6"/>
-</p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
